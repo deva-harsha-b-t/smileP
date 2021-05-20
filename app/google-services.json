@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29365868560",
+    "project_id": "smilep-3f347",
+    "storage_bucket": "smilep-3f347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29365868560:android:3dc7c664dafd3ee4d2d295",
+        "android_client_info": {
+          "package_name": "com.dtl.smilep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29365868560-kvi3hqbaihh2fp21djdocojmtqi2l847.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ELBuiqtsuf9Nm5oSUNB7EWcfSB0T-t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29365868560-kvi3hqbaihh2fp21djdocojmtqi2l847.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
